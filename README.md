@@ -1,3 +1,11 @@
-<p> Hi! I´m Ivan (Economist, University of Buenos Aires | Mg. in Economics, Unievrsity of San Andrés). 23yo. </p>
-<p> - Macroeconomics, econometrics, finance | Python (main weapon), R, JavaScript </p> 
-<p> | Connect w/ me on <a href="https://www.linkedin.com/in/ivanroblesurquiza" target="_blank">LinkedIn</a>. On Instagram as @urkixa | </p>
+## I'm Ivan  
+
+**Economist** (University of Buenos Aires) | **M.Sc. in Economics** (University of San Andrés). 23 yo. 
+Interests & Skills  
+- Interested in **Macroeconomics, Econometrics, Finance, and Machine Learning**  
+- **Python** (main weapon), R, JavaScript.
+
+🌐 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/ivanroblesurquiza)  
+- On Instagram as [@urkixa](https://instagram.com/urkixa)  
+
